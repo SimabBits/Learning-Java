@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class Array {
 
@@ -16,8 +17,8 @@ System.out.println("Enter the elements of matrix");
       }
     }
 
-    for (int[] row : arr{
-        System.out.println(Arrays.toString(arr[row]));
+    for (int[] row : arr){
+        System.out.println(Arrays.toString(row));
     }
 
 
