@@ -31,5 +31,7 @@ public class LinearSearch {
     int key = sc.nextInt();
 
     System.out.println("Index " + linearSearch(arr, key));
+
+    sc.close();
   }
 }
