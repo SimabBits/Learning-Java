@@ -13,3 +13,4 @@
 |07|[LinearSearchIn2DArrays](LinearSearchIn2dArrays)|Created a java program for understanding LinearSearch in 2DArrays|29-06-2024|
 |08|[LinearSearchInStrings](LinearSearchIn_Strings)|Created a java program for understanding LinearSearch in Strings|29-06-2024|
 |09|[SolVedProblemsofLinearSearch](LeetCodeProblems)|Created a java program for solving LinearSearch Problem|30-06-2024|
+|10|[SolVedProblemsofLinearSearch](LeetCodeProblems)|Created a java program for solving LinearSearch Problem|01-07-2024|
