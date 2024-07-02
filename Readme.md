@@ -16,4 +16,4 @@
 |10|[SolvedProblemsofLinearSearch](LeetCodeProblems)|Created a java program for solving LinearSearch Problem|01-07-2024|
 |11|[BinarySearch](BinarySearch)|Created a Binary Search program in java|02-07-2024|
 |12|[SolvedProblemofBinarySearch](BinarySearchProblems/FindCeiling)|Created a Binary Search program for finding ceiling of given number|02-07-2024|
-|13|[SolvedProblemofBinarySearch](BinarySearchProblems/FindCeiling)|Created a Binary Search program for finding smallest character in array larger the target charachter|02-07-2024|
+|13|[SolvedProblemofBinarySearch](BinarySearchProblems/FindSmallestAlphabet)|Created a Binary Search program for finding smallest character in array larger the target charachter|02-07-2024|
