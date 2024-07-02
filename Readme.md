@@ -12,6 +12,7 @@
 |06|[LinearSearch](LinearSearch)|Created a java program for understanding LinearSearch in java|29-06-2024|
 |07|[LinearSearchIn2DArrays](LinearSearchIn2dArrays)|Created a java program for understanding LinearSearch in 2DArrays|29-06-2024|
 |08|[LinearSearchInStrings](LinearSearchIn_Strings)|Created a java program for understanding LinearSearch in Strings|29-06-2024|
-|09|[SolVedProblemsofLinearSearch](LeetCodeProblems)|Created a java program for solving LinearSearch Problem|30-06-2024|
-|10|[SolVedProblemsofLinearSearch](LeetCodeProblems)|Created a java program for solving LinearSearch Problem|01-07-2024|
+|09|[SolvedProblemsofLinearSearch](LeetCodeProblems)|Created a java program for solving LinearSearch Problem|30-06-2024|
+|10|[SolvedProblemsofLinearSearch](LeetCodeProblems)|Created a java program for solving LinearSearch Problem|01-07-2024|
 |11|[BinarySearch](BinarySearch)|Created a Binary Search program in java|02-07-2024|
+|12|[SolvedProblemofBinarySearch](BinarySearchProblems/FindCeiling)|Created a Binary Search program for finding ceiling of given number|02-07-2024|
