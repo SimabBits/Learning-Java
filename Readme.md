@@ -17,4 +17,4 @@
 |11|[BinarySearch](BinarySearch)|Created a Binary Search program in java|02-07-2024|
 |12|[SolvedProblemofBinarySearch](BinarySearchProblems/FindCeiling)|Created a Binary Search program for finding ceiling of given number|02-07-2024|
 |13|[SolvedProblemofBinarySearch](BinarySearchProblems/FindSmallestAlphabet)|Created a Binary Search program for finding smallest character in array larger the target charachter|02-07-2024|
-|14|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems/FindSmallestAlphabet)|Created a Binary Search program for finding smallest character in array larger the target charachter|03-07-2024|
+|14|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems/FindSmallestAlphaSol2)|Created a Binary Search program for finding smallest character in array larger the target charachter|03-07-2024|
