@@ -8,8 +8,11 @@ public class SmallestCharacterProblem {
     int e = arr.length - 1;
     while (s <= e) {
       int mid = s + (e - s) / 2;
-
-      if (arr[mid] == target) {
+      if ((arr[mid] == target) && (mid == arr.length - 1)) {
+        System.out.println("no character found after " + arr[mid]);
+        return '1';
+      }
+      if ((arr[mid] == target) && (mid != arr.length - 1)) {
         return arr[mid + 1];
       } else if (arr[mid] < target) {
         s = mid + 1;
