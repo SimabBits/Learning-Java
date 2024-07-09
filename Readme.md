@@ -19,4 +19,5 @@
 |13|[SolvedProblemofBinarySearch](BinarySearchProblems/FindSmallestAlphabet)|Created a Binary Search program for finding smallest character in array larger the target charachter|02-07-2024|
 |14|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems/FindSmallestAlphaSol2)|Created a Binary Search program for finding smallest character in array larger the target charachter|03-07-2024|
 |15|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems/FindFirstAndLastOccurance)|Created a Binary Search program for finding First and last Occurance of element in array |04-07-2024|
-|15|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems/FindingPeakElement)|Created a Binary Search program for finding peak element in array |04-07-2024|
+|16|[FindingPeakElemntBinarySearchProblem](BinarySearchProblems/FindingPeakElement)|Created a Binary Search program for finding peak element in array |06-07-2024|
+|16|[SearchInMountainArrayBinarySearchProblem](BinarySearchProblems/FindingPeakElement)|Created a Binary Search program for finding element in Mountain array |09-07-2024|
