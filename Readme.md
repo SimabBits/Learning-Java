@@ -15,12 +15,12 @@
 |09|[SolvedProblemsofLinearSearch](LeetCodeProblems)|Created a java program for solving LinearSearch Problem|30-06-2024|
 |10|[SolvedProblemsofLinearSearch](LeetCodeProblems)|Created a java program for solving LinearSearch Problem|01-07-2024|
 |11|[BinarySearch](BinarySearch)|Created a Binary Search program in java|02-07-2024|
-|12|[SolvedProblemofBinarySearch](BinarySearchProblems/FindCeiling)|Created a Binary Search program for finding ceiling of given number|02-07-2024|
-|13|[SolvedProblemofBinarySearch](BinarySearchProblems/FindSmallestAlphabet)|Created a Binary Search program for finding smallest character in array larger the target charachter|02-07-2024|
-|14|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems/FindSmallestAlphaSol2)|Created a Binary Search program for finding smallest character in array larger the target charachter|03-07-2024|
-|15|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems/FindFirstAndLastOccurance)|Created a Binary Search program for finding First and last Occurance of element in array |04-07-2024|
-|16|[FindingPeakElemntBinarySearchProblem](BinarySearchProblems/FindingPeakElement)|Created a Binary Search program for finding peak element in array |06-07-2024|
-|17|[SearchInMountainArrayBinarySearchProblem](BinarySearchProblems/FindingPeakElement)|Created a Binary Search program for finding element in Mountain array |09-07-2024|
-|18|[SearchRotateArrayBinarySearchProblem](BinarySearchProblems/SearchInRotatedArray)|Created a Binary Search program for finding element in rotated array |12-07-2024|
-|19|[SolvedTheBookallocationProblem](BinarySearchProblems/The Painters problem sol)|Created a Binary Search program for finding min max in sub arrays |15-07-2024|
+|12|[SolvedProblemofBinarySearch](BinarySearchProblems)|Created a Binary Search program for finding ceiling of given number|02-07-2024|
+|13|[SolvedProblemofBinarySearch](BinarySearchProblems)|Created a Binary Search program for finding smallest character in array larger the target charachter|02-07-2024|
+|14|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems)|Created a Binary Search program for finding smallest character in array larger the target charachter|03-07-2024|
+|15|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems)|Created a Binary Search program for finding First and last Occurance of element in array |04-07-2024|
+|16|[FindingPeakElemntBinarySearchProblem](BinarySearchProblems)|Created a Binary Search program for finding peak element in array |06-07-2024|
+|17|[SearchInMountainArrayBinarySearchProblem](BinarySearchProblems)|Created a Binary Search program for finding element in Mountain array |09-07-2024|
+|18|[SearchRotateArrayBinarySearchProblem](BinarySearchProblems)|Created a Binary Search program for finding element in rotated array |12-07-2024|
+|19|[SolvedTheBookallocationProblem](BinarySearchProblems)|Created a Binary Search program for finding min max in sub arrays |15-07-2024|
 |20|[BubbleSort](BubbleSort)|Created a BubbleSort program for sorting unsorted array |13-07-2024|
