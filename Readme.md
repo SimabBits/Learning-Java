@@ -21,3 +21,6 @@
 |15|[AddedAnotherSolForProblemofBinarySearch](BinarySearchProblems/FindFirstAndLastOccurance)|Created a Binary Search program for finding First and last Occurance of element in array |04-07-2024|
 |16|[FindingPeakElemntBinarySearchProblem](BinarySearchProblems/FindingPeakElement)|Created a Binary Search program for finding peak element in array |06-07-2024|
 |17|[SearchInMountainArrayBinarySearchProblem](BinarySearchProblems/FindingPeakElement)|Created a Binary Search program for finding element in Mountain array |09-07-2024|
+|18|[SearchRotateArrayBinarySearchProblem](BinarySearchProblems/SearchInRotatedArray)|Created a Binary Search program for finding element in rotated array |12-07-2024|
+|19|[SolvedTheBookallocationProblem](BinarySearchProblems/The Painters problem sol)|Created a Binary Search program for finding min max in sub arrays |15-07-2024|
+|20|[BubbleSort](BubbleSort)|Created a BubbleSort program for sorting unsorted array |13-07-2024|
